@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sales-aegon-welcome-script-pdf-service
+  cloud:
+    config:
+      uri: *****************************************
